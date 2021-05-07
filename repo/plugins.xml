@@ -1,0 +1,21 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<plugins>
+<pyqgis_plugin name="QGIS GeoNode" version="0.3.1">
+                <description><![CDATA[A QGIS plugin for integrating with GeoNode]]></description>
+                <about><![CDATA[This plugin adds GeoNode client functionality to QGIS - Search, load and manage GeoNode resources from inside QGIS]]></about>
+                <version>0.3.1</version>
+                <qgis_minimum_version>3.10</qgis_minimum_version>
+                <homepage><![CDATA[https://kartoza.github.io/qgis_geonode]]></homepage>
+                <file_name>qgis_geonode.0.3.1.zip</file_name>
+                <icon>mIconGeonode.svg</icon>
+                <author_name><![CDATA[Kartoza]]></author_name>
+                <download_url>https://github.com/kartoza/qgis_geonode/releases/download/v0.3.1/qgis_geonode.0.3.1.zip</download_url>
+                <update_date>2021-05-07 16:04:58</update_date>
+                <experimental>True</experimental>
+                <deprecated>False</deprecated>
+                <tracker><![CDATA[https://github.com/kartoza/qgis_geonode/issues]]></tracker>
+                <repository><![CDATA[https://github.com/kartoza/qgis_geonode]]></repository>
+                <tags><![CDATA[geonode]]></tags>
+                <server>False</server>
+            </pyqgis_plugin>
+</plugins>
